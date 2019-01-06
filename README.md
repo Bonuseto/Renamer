@@ -5,6 +5,7 @@
 
  In process:
  ![alt text](https://github.com/Bonuseto/Renamer/blob/master/inprocess.png)
+ 
  Result message:
  ![alt text](https://github.com/Bonuseto/Renamer/blob/master/Result.png)
 
