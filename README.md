@@ -10,5 +10,9 @@
  Result message:
  
  ![alt text](https://github.com/Bonuseto/Renamer/blob/master/Result.png)
+ 
+ Future changes:
+ 
+At the moment, the program supports only .mp3 files. It is planned to add an option to select the type of files. Ability to select the source file and save source. Ability to select a template for renaming.
 
 
